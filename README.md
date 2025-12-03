@@ -4,7 +4,7 @@
 ### Overview
 HCP is a tool designed for internal feature-interaction analysis and configuration prioritization in highly configurable software systems. It performs variability-aware static analysis to extract internal feature interactions and leverages them to guide configuration-level testing prioritization.
 
-![](./Framework.pdf)
+![](./Framework.png)
 
 ### How to Run HCP
 
