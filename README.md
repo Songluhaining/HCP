@@ -4,7 +4,15 @@
 ### Overview
 HCP is a tool designed for internal feature-interaction analysis and configuration prioritization in highly configurable software systems. It performs variability-aware static analysis to extract internal feature interactions and leverages them to guide configuration-level testing prioritization.
 
+![](./Framework.pdf)
+
 ### How to Run HCP
+
+## Requirements
+
+```sh
+pip install -r requirements.txt
+```
 
 ## Subject Systems
 In our study, we evaluate HCP using real faults collected by Medeiros et al. ([FCM](https://www.dsc.ufcg.edu.br/~spg/sampling/)) and the Variability Bugs Database ([VBDb](https://vbdb.bitbucket.io/)).
